@@ -1,11 +1,27 @@
 import './App.css';
-import Header from './Components/Header'
+import Header from './Components/Header/Header'
+import Nav from './Components/Nav/Nav'
+import About from './Components/About/About'
+import Services from './Components/Services/Services'
+import Experience from './Components/Experience/Experience'
+import Footer from './Components/Footer/Footer'
+import Contacts from './Components/Contact/Contacts'
+import Portfolio from './Components/Portfolio/Portfolio'
+import Testimonials from './Components/Testimonial/Testimonials'
 import React from 'react'
 
 const App = () => {
   return (
     <div>
-      <Header/>
+      <Header />
+      <Nav />
+      <About />
+      <Contacts />
+      <Experience />
+      <Portfolio />
+      <Services />
+      <Testimonials />
+      <Footer/>
     </div>
   )
 }
