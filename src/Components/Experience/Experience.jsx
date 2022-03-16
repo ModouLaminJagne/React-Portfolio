@@ -1,4 +1,5 @@
 import React from 'react'
+import './Experience.css'
 import {BsPatchCheckFill} from 'react-icons/bs'
 
 const Experience = () => {
@@ -37,7 +38,7 @@ const Experience = () => {
             </article>
           </div>
         </div>
-        ===================END OF FRONTEND===================
+        {/* ===================END OF FRONTEND=================== */}
         <div className='experience__backend'>
           <h3>Backend Development</h3>
           <div className='experience__content'>
