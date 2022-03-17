@@ -11,7 +11,7 @@ const Footer = () => {
         MLJ
       </a>
 
-      <ul className="pernalinks">
+      <ul className="permalinks">
         <li>
           <a href="#home">Home</a>
         </li>
