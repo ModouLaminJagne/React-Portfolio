@@ -14,66 +14,73 @@ const Portfolio = () => {
             <img src={BC} alt="bc" />
           </div>
           <h3>this is a portfolio item</h3>
-          <a
-            href="https:/github.com"
-            target="_blank"
-            rel="noreferrer"
-            className="btn"
-          >
-            Github
-          </a>
-          <a
-            href="https:/github.com"
-            target="_blank"
-            rel="noreferrer"
-            className="btn btn-primary"
-          >
-            Github
-          </a>
+          <div className=" portfolio__item-cta">
+            <a
+              href="https:/github.com"
+              target="_blank"
+              rel="noreferrer"
+              className="btn"
+            >
+              Github
+            </a>
+            <a
+              href="https:/github.com"
+              target="_blank"
+              rel="noreferrer"
+              className="btn btn-primary"
+            >
+              Github
+            </a>
+          </div>
         </article>
         <article className="portfolio__item">
           <div className="portfolio__item-image">
             <img src={BC} alt="bc" />
           </div>
           <h3>this is a portfolio item</h3>
-          <a
-            href="https:/github.com"
-            target="_blank"
-            rel="noreferrer"
-            className="btn"
-          >
-            Github
-          </a>
-          <a
-            href="https:/github.com"
-            target="_blank"
-            rel="noreferrer"
-            className="btn btn-primary"
-          >
-            Github
-          </a>
+
+          <div className=" portfolio__item-cta">
+            <a
+              href="https:/github.com"
+              target="_blank"
+              rel="noreferrer"
+              className="btn"
+            >
+              Github
+            </a>
+            <a
+              href="https:/github.com"
+              target="_blank"
+              rel="noreferrer"
+              className="btn btn-primary"
+            >
+              Github
+            </a>
+          </div>
         </article>
         <article className="portfolio__item">
           <div className="portfolio__item-image">
             <img src={BC} alt="bc" />
           </div>
           <h3>this is a portfolio item</h3>
-          <a
-            href="https:/github.com"
-            target="_blank"
-            rel="noreferrer"
-            className="btn"
-          >
-            Github
-          </a>
-          <a
-            href="https:/github.com"
-            target="_blank"
-            rel="noreferrer"
-            className="btn btn-primary"
-          >
-            Github
-          </a>
+          <div className=" portfolio__item-cta">
+            <a
+              href="https:/github.com"
+              target="_blank"
+              rel="noreferrer"
+              className="btn"
+            >
+              Github
+            </a>
+            <a
+              href="https:/github.com"
+              target="_blank"
+              rel="noreferrer"
+              className="btn btn-primary"
+            >
+              Github
+            </a>
+          </div>
         </article>
       </div>
     </section>
