@@ -17,14 +17,14 @@ const Contacts = () => {
           </article>
           <article className='contact__option'>
             <MdOutlineEmail/>
-            <h4>Email</h4>
-            <h5>my@email.com</h5>
+            <h4>Twitter</h4>
+            <h5>my@twitter.com</h5>
             <a href='mailto:myemail@gmail.com'>Send a message</a>
           </article>
           <article className='contact__option'>
             <MdOutlineEmail/>
-            <h4>Email</h4>
-            <h5>my@email.com</h5>
+            <h4>Linkedin</h4>
+            <h5>my@linkedin.com</h5>
             <a href='mailto:myemail@gmail.com'>Send a message</a>
           </article>
         </div>
