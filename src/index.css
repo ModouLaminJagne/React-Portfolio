@@ -37,12 +37,13 @@ body {
   font-family: 'Poppins', sans-serif;
   background: var(--color-bg);
   color: var(--color-white);
-  /* background-image: url(../src/Assets/me.jpg); */
+  line-height: 1.7;
+  background-image: url(../src/Assets/BG.jpg);
 }
 
 .container {
   width: var(--container-width-lg);
-  margin: 0, auto;
+  margin: 0 auto;
   
 }
 
