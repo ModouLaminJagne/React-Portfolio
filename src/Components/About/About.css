@@ -59,7 +59,7 @@
 }
 
 /*=============MEDIA QUERIES (MEDIUM DEVICES)==========*/
-@media screen and (ma-width: 1024PX) {
+@media screen and (max-width: 1024PX) {
     .about__container{
         grid-template-columns: 1fr;
         gap: 0;
@@ -76,7 +76,7 @@
 }
 
 /*=============MEDIA QUERIES (SMALL DEVICES)==========*/
-@media screen and (ma-width: 600px) {
+@media screen and (max-width: 600px) {
     .about__me{
         width: 65%;
         margin: 0 auto 3rem;
