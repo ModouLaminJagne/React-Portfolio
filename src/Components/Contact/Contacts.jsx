@@ -34,7 +34,6 @@ const Contacts = () => {
           <input type="text" name="name" placeholder="Your Name" required />
           <input type="text" name="email" placeholder="Your Email" required />
           <textarea name="message" rows="7" placeholder="Your Message" required>
-            Message
           </textarea>
           <button type="submit" className="btn btn-primary">
             Send Message
