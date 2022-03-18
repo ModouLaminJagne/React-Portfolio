@@ -8,6 +8,7 @@
   box-sizing: border-box;
   list-style: none;
   text-decoration: none;
+  
 }
 
 :root {
@@ -27,6 +28,7 @@
 
 html {
   scroll-behavior: smooth;
+  
 }
 
 ::-webkit-scrollbar {
@@ -39,12 +41,14 @@ body {
   color: var(--color-white);
   line-height: 1.7;
   background-image: url(../src/Assets/BG.jpg);
+  background-size: contain;
+  
 }
 
 .container {
   width: var(--container-width-lg);
   margin: 0 auto;
-  
+  /* filter: blur(8px); */
 }
 
 h1,
