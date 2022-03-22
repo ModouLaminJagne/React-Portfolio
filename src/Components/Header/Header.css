@@ -49,6 +49,11 @@ header {
     overflow: hidden;
     padding: 0rem 0rem 0rem 0rem;
 }
+img{
+    /* position: absolute; */
+    padding: 11rem 0rem 0rem 0rem;
+    /* margin-bottom: 0rem; */
+}
 
 /* ============= scroll down =============== */
 .scroll__down{
